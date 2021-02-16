@@ -1,0 +1,6 @@
+*.csv
+*.jl
+*.tsv
+*.txt
+/test.py
+/main.py
