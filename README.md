@@ -1,1 +1,1 @@
-# SDGP_Polarity_PosTagging_FeatureExtraction_DataCleaning
+# SDGP_Frequency_Polarity_PosTagging_FeatureExtraction_DataCleaning
